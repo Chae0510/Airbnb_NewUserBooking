@@ -58,7 +58,7 @@
 <img width="405" alt="image" src="https://github.com/Chae0510/Airbnb_NewUserBooking/assets/85086390/6beb55c6-90b2-4338-bcd1-d295436e99ae">
 
 ## Analysis
-#### 모델링을 통해 목적지를 예측하는 데 있어 중요한 feature를 분석
+#### Analyze critical features in predicting destinations through modeling
 <img width="293" alt="image" src="https://github.com/Chae0510/Airbnb_NewUserBooking/assets/85086390/17f575e3-6683-454d-b511-52df0ec5f667">
 <img width="196" alt="image" src="https://github.com/Chae0510/Airbnb_NewUserBooking/assets/85086390/09999948-d2fa-4a6f-8abf-a749e2c7e8af">
 
